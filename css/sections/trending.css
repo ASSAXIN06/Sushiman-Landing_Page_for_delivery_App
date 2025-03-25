@@ -76,9 +76,9 @@
     background : url(../../assets/japanese_sushi.png);
 }
 
-/* .trending__sushi .trending__drink{
+.trending__sushi .trending__drink{
     background : url(../../assets/japanese_drinks.png);
-} */
+}
 
 .trending__image img{
     width: 254px;
