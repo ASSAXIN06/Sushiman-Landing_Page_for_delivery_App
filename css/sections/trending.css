@@ -96,6 +96,7 @@
     height: 160px;
     background-color: var(--secondary-color);
     border-radius: 100%;
+    cursor: pointer;
 
     display: flex;
     justify-content: center;
